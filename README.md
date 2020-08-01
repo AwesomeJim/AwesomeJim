@@ -1,4 +1,4 @@
-![James Mbugua](https://raw.githubusercontent.com/AwesomeJim/AwesomeJim/master/secret-of-mobile-apps-git.jpg)
+[![James Mbugua](https://raw.githubusercontent.com/AwesomeJim/AwesomeJim/master/secret-of-mobile-apps-git.jpg)](https://github.com/AwesomeJim/AwesomeJim)
 
 ### Hi there! 👋
 Thanks for stopping by, My name is James Mbugua and i'm passionate about mobile Apps and Mobile Technology
