@@ -1,3 +1,5 @@
+## [![Awesomejim Header](https://github.com/AwesomeJim/AwesomeJim/blob/master/edited%20secret-of-mobile-apps-git.jpg)]
+
 ### Hi there 👋
 - 📫 How to reach me: ...
 
