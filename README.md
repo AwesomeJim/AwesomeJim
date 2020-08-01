@@ -1,6 +1,8 @@
 ## ![Awesomejim Header](secret-of-mobile-apps-git.jpg "Awesomejim Header" ) 
 
-### Hi there 👋
+### Hi there! 👋
+Thanks for stopping by, My name is James Mbugua and i'm passionate about mobile Apps and Mobile Technology
+
 - 📫 How to reach me: ...
 
 [![Linkedin Badge](https://img.shields.io/badge/-James-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-mbugua-85745099/)](https://www.linkedin.com/in/james-mbugua-85745099/)
