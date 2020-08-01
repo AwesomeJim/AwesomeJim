@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 📫 How to reach me: ...
 
-[![Linkedin Badge](https://img.shields.io/badge/-James Mbugua-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-mbugua-85745099/)](https://www.linkedin.com/in/james-mbugua-85745099/)
+[![Linkedin Badge](https://img.shields.io/badge/-James-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/james-mbugua-85745099/)](https://www.linkedin.com/in/james-mbugua-85745099/)
 
 <!--
 **AwesomeJim/AwesomeJim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
