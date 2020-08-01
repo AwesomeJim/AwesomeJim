@@ -1,5 +1,3 @@
- ![Awesomejim Header](secret-of-mobile-apps-git.jpg "Awesomejim Header" ) 
-
 ### Hi there! 👋
 Thanks for stopping by, My name is James Mbugua and i'm passionate about mobile Apps and Mobile Technology
 
