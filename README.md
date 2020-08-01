@@ -1,4 +1,4 @@
-## [![Awesomejim Header](https://github.com/AwesomeJim/AwesomeJim/blob/master/edited%20secret-of-mobile-apps-git.jpg)]
+## ![Awesomejim Header](secret-of-mobile-apps-git.jpg "Awesomejim Header" ) 
 
 ### Hi there 👋
 - 📫 How to reach me: ...
