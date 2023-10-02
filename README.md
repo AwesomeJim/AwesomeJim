@@ -34,3 +34,10 @@ Here are some ideas to get you started:
 ![Awesome Jim Github Stats](https://github-readme-stats.vercel.app/api?username=AwesomeJim&count_private=true&show_icons=true&theme=algolia)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AwesomeJim&hide=TeX)
+
+## My Android Portfolio 📱
+
+|                              [Weather Forecast App](https://github.com/AwesomeJim/weather-forecast/)                               |                                                         Home  (Light Theme)                                                         |
+|:----------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
+| <img src="https://github.com/AwesomeJim/weather-forecast/blob/main/screenshots/home_screen_dark.png" width="300px" height="600px"> | <img src="https://github.com/AwesomeJim/weather-forecast/blob/main/screenshots/home_screen_light.png" width="300px" height="600px"> |
+
