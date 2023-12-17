@@ -37,7 +37,13 @@ Here are some ideas to get you started:
 
 ## My Android Portfolio 📱
 
+
 |                              [Weather Forecast App](https://github.com/AwesomeJim/weather-forecast/)                               |                                                         Home  (Light Theme)                                                         |
 |:----------------------------------------------------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------------------------:|
 | <img src="https://github.com/AwesomeJim/weather-forecast/blob/main/screenshots/home_screen_dark.png" width="300px" height="600px"> | <img src="https://github.com/AwesomeJim/weather-forecast/blob/main/screenshots/home_screen_light.png" width="300px" height="600px"> |
+
+
+|                                [Mini Pokedex App](https://github.com/AwesomeJim/MiniPokedex/)                                 |                                                      Home  (Light Theme)                                                       |
+|:-----------------------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------:|
+| <img src="https://github.com/AwesomeJim/MiniPokedex/blob/main/screenshots/home_screen_dark.png" width="300px" height="600px"> | <img src="https://github.com/AwesomeJim/MiniPokedex/blob/main/screenshots/home_screen_light.png" width="300px" height="600px"> |
 
